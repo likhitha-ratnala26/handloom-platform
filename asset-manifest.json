@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/handloom-platform/static/css/main.bf860689.css",
+    "main.js": "/handloom-platform/static/js/main.cfbd472b.js",
+    "static/media/hlm2.png": "/handloom-platform/static/media/hlm2.bff323f75f878282761d.png",
+    "static/media/hlm10.png": "/handloom-platform/static/media/hlm10.d008f7cde8c799298334.png",
+    "static/media/hlm8.png": "/handloom-platform/static/media/hlm8.ef5d8f3fc6376f1600ca.png",
+    "static/media/hlm13.png": "/handloom-platform/static/media/hlm13.b61a1c8174b478aee74c.png",
+    "static/media/hlm11.png": "/handloom-platform/static/media/hlm11.e8fb98c22ecca0fd1a60.png",
+    "static/media/hlm5.png": "/handloom-platform/static/media/hlm5.eb25c6ad30bf1a12a887.png",
+    "static/media/hlm9.png": "/handloom-platform/static/media/hlm9.50fef2321cfb862c576c.png",
+    "static/media/hlm3.png": "/handloom-platform/static/media/hlm3.5bcf40113c8550b5e3d9.png",
+    "static/media/hlm14.png": "/handloom-platform/static/media/hlm14.d97da2c2f003fa668435.png",
+    "static/media/hlm6.png": "/handloom-platform/static/media/hlm6.f6fd8dd54ff6c6b45ef7.png",
+    "static/media/hlm7.png": "/handloom-platform/static/media/hlm7.5208cf48765abbba05b7.png",
+    "static/media/hlm15.png": "/handloom-platform/static/media/hlm15.d1faaf5503dbe8f4e026.png",
+    "static/media/hlm4.png": "/handloom-platform/static/media/hlm4.427172f89dfbe1893c59.png",
+    "static/media/hlm12.png": "/handloom-platform/static/media/hlm12.0b63a3bd7f61b74775f2.png",
+    "static/media/hlm1.png": "/handloom-platform/static/media/hlm1.f560a13a0d4959ea2186.png",
+    "index.html": "/handloom-platform/index.html",
+    "main.bf860689.css.map": "/handloom-platform/static/css/main.bf860689.css.map",
+    "main.cfbd472b.js.map": "/handloom-platform/static/js/main.cfbd472b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf860689.css",
+    "static/js/main.cfbd472b.js"
+  ]
+}
